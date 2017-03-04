@@ -1,0 +1,18 @@
+1) * .data:le dice a ensamblador que estamos en el data segment
+   * .word: lo que se le coloca o asigna a la memoria 
+   * .text: le dice a el ensamblador de estamos en el text segment
+
+2) *activando el toggle en el text segment Bkpt del lado izquierdo en la linea 14.
+   *0x00400020
+   *No
+
+
+3) *desactivando el Breakpoint
+
+4) * 34
+   * 9
+5) *0x00400008
+
+6) se coloca un breakpoint en la linea 10 luego en del data segment en la columna value(+c) se cambia el 9 por E equivale a 13 en hexadecimal.
+
+7) son system calls. para se usa para llamar el input/output  
